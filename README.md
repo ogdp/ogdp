@@ -1,11 +1,15 @@
-#Hello everyone !!!
-- 👋 Hi, I’m @ogdp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![](https://komarev.com/ghpvc/?username=5c0)
 
-<!---
-ogdp/ogdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+   <a id="page" href="https://5c0.github.io" target="_blank">
+      
+ <img src="https://user-images.githubusercontent.com/93293719/189478020-75f9d9e9-3fe8-48c5-89a5-1f9f76ac27f4.gif"/>  </a>
+    <div>
+ <div>
+    
+<img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
+
+
+</div>
+
+---

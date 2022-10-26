@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=5c0)
+![](https://komarev.com/ghpvc/?username=ogdp&color=red)
 
 <div align="center">
    <a id="page" href="https://5c0.github.io" target="_blank">

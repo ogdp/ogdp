@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=ogdp&color=red)
 
 <div align="center">
-   <a id="page" href="https://5c0.github.io" target="_blank">
+   <a id="page" href="https://ogdp.github.io" target="_blank">
       
- <img src="https://user-images.githubusercontent.com/93293719/189478020-75f9d9e9-3fe8-48c5-89a5-1f9f76ac27f4.gif"/>  </a>
+ <img src="https://raw.githubusercontent.com/ogdp/ogdp/main/bg.gif"/>  </a>
     <div>
  <div>
     
-<img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ogdp/ogdp/68f9c8c48388db455d87cebb9ee684a6ac6363af/github-contribution-grid-snake.svg"/>
 
 
 </div>
